@@ -1,0 +1,11 @@
+ccxt
+python-dotenv
+pandas
+numpy
+sqlalchemy
+structlog
+aiohttp
+colorlog
+pytest
+matplotlib
+tabulate
